@@ -1,0 +1,12 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+}
+img{
+    width:100px;
+    -webkit-box-reflect:above;
+    linear-gradient(transparent,rgb(0,0,0,0.8));
+    background-color:red;
+}
